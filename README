@@ -1,5 +1,7 @@
 modify auth values at top of .py file
 
+requires requests and discord.py libs (both from pip)
+
 useful links:
  https://realpython.com/how-to-make-a-discord-bot-python/
  https://discordpy.readthedocs.io/en/latest/

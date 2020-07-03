@@ -36,7 +36,6 @@ def makememe(user, text):
 
 @client.event
 async def on_message(message):
-    print(message.channel)
     if random.randint(1, 10) > 7:
         return
     if message.author == client.user:
